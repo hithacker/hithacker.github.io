@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Test on Hugo Blog Template for GitHub Pages</title>
-    <link>http://spencerlyon2.github.io/hugo_gh_blog/categories/test/</link>
+    <link>http://hirenthacker.com/categories/test/</link>
     <description>Recent content in Test on Hugo Blog Template for GitHub Pages</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 26 Jul 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://spencerlyon2.github.io/hugo_gh_blog/categories/test/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://hirenthacker.com/categories/test/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>First Post</title>
-      <link>http://spencerlyon2.github.io/hugo_gh_blog/posts/oldest/</link>
+      <link>http://hirenthacker.com/posts/oldest/</link>
       <pubDate>Tue, 26 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://spencerlyon2.github.io/hugo_gh_blog/posts/oldest/</guid>
+      <guid>http://hirenthacker.com/posts/oldest/</guid>
       <description>&lt;p&gt;Just a poor simple first post without any content.&lt;/p&gt;
 </description>
     </item>
